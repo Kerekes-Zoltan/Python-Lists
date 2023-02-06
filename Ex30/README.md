@@ -1,0 +1,1 @@
+Write a Python program to get the frequency of elements in a list.

@@ -1,0 +1,1 @@
+Write a Python program to calculate the difference between the two lists.
